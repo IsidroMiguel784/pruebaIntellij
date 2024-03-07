@@ -18,5 +18,6 @@ public class Main2 {
         //SALIDA POR CONSOLA
         System.out.println("La multiplicación de" + n1 + " y " + n2 + "es " + (n1 * n2));
         System.out.println("La division de" + n1 + " y " + n2 + "es " + (n1 / n2));
+        //revista este ultimo apartado que no te cubre todos los casos
     }
 }
